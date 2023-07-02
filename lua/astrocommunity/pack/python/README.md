@@ -8,7 +8,4 @@ This plugin pack does the following:
 - Adds `pyright` and `ruff_lsp` language servers
 - Adds the following `null-ls` sources:
   - [black](https://pypi.org/project/black/)
-  - [isort](https://pypi.org/project/isort/)
-  - [pylint](https://pypi.org/project/pylint/)
 - Adds `debugpy` for debugging
-- Adds [venv-selector.nvim](https://github.com/linux-cultist/venv-selector.nvim) for virtual environment management
